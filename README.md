@@ -82,6 +82,8 @@ there were so many more successful theater campaigns than failed theater campaig
 by the time December rolled around the number of successful and failed campaigns 
 was within 3.
 
+![Theater_Outcomes_Based_on_Launch_Date_Chart](Theater_Outcomes_vs_Launch.png)
+
 ## Outcomes Based on Goals Conclusions
 
 The main takeaway I had from the “Outcomes Based on Goals” analysis was that, 
@@ -93,6 +95,8 @@ piece of data that caught my eye was that if she were to up her goal to $35,000-
 she would technically have a higher chance of succeeding than with goal she has now, 
 but that goal range has very small sample size therefore I feel that that information 
 could be slightly misleading nonetheless it’s still a true statement.
+
+![Outcomes_Based_on_Goals_Chart](Outcomes_vs_Goals.png)
 
 ## Limitation
 
@@ -106,5 +110,3 @@ website that had a high rate of failure relative to kick starter campaigns. I wo
 liked to give Louise a line graph containing the websites most used and the outcomes. 
 That would be very pertinent information. Another graph I would’ve liked to present 
 Louise with, is one that contained the length of the campaign and the outcomes.
-
-## Analysis![image](https://user-images.githubusercontent.com/89331022/133916320-961f530d-d9bf-4eba-830f-3781275290f6.png)
